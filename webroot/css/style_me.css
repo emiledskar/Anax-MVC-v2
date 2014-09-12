@@ -1,0 +1,99 @@
+/**
+ * General elements
+ */
+
+
+@import url(figure.css);
+@import url(http://fonts.googleapis.com/css?family=PT+Sans:400,700,400italic);
+
+body {
+  color: #333;
+  font-family: 'PT Sans', sans-serif;
+  overflow-y: scroll;
+}
+
+h1{font-size: 2em;}
+h2{font-size: 1.2em;}
+
+
+/**
+ * Layout of the main page elements 
+ */
+#wrapper {
+  margin: 0 auto;
+  width: 980px; 
+  padding: 10px;
+}
+
+
+/**
+ * Layout for header
+ */
+#header {
+  position: relative;
+  margin-bottom: 40px;
+  text-align: center;
+}
+
+.sitetitle {
+  font-style: italic;
+  color: #999;
+}
+
+.siteslogan {
+  position: absolute;
+  top: 65px;
+  left: 130px;
+  font-style: italic;
+  color: #666;
+}
+
+
+/**
+ * Layout for main
+ */
+#main {
+  min-height: 20em;
+}
+
+
+/**
+ * Layout for footer
+ */
+#footer {
+  margin-top: 20px;
+  border-top: 1px solid #e3e3e3;
+  padding-top: 22px;
+}
+
+.sitefooter {
+  font-size: 0.7em;
+  color: #666;
+}
+
+
+/**
+ * For articles
+ */
+.article1 {
+  width: 100%;
+  padding-right: 1em;
+}
+
+.article1 h1,
+.article1 h2 {
+  border-bottom: 1px solid #FF7200;
+}
+
+.byline {
+  margin-top: 140px;
+  border-top: 1px dashed #FF7200;
+  padding-top: 22px;
+  color: #666;
+}
+
+.byline p {
+  font-style: italic;
+  font-size: 0.8em;
+  margin-top: 0;
+}
