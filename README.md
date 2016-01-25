@@ -16,7 +16,7 @@ Builds upon Anax-base, read article about Anax-base ["Anax - en hållbar struktu
 By Mikael Roos, me@mikaelroos.se.
 
 
-[test](baragrannar://)
+[test](http://baragrannar.se)
 
 License 
 ------------------
