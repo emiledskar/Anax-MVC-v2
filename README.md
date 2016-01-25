@@ -1,5 +1,3 @@
-[test](baragrannar://)
-
 Anax-MVC
 =========
 
@@ -18,6 +16,7 @@ Builds upon Anax-base, read article about Anax-base ["Anax - en hållbar struktu
 By Mikael Roos, me@mikaelroos.se.
 
 
+[test](baragrannar://)
 
 License 
 ------------------
